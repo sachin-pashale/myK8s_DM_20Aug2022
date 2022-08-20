@@ -1,0 +1,19 @@
+---
+- mystudents:
+  - name: sunil
+    phone: 3333434
+    address: 
+      flatNo: 203
+      street: werr
+      city: Hydrabad
+      pincode: 34234
+    
+  - name: anil
+    phone: 9895564
+    address: 
+      flatNo: 233
+      street: werr
+      city: Bangalore
+      pincode: 34234
+
+      
