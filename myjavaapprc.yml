@@ -11,9 +11,10 @@ spec:
     metadata:
       labels:
         app: myjavaapp
+        version: 2.6.1
     spec:
       containers:
         - name: myjavaapp-container
-          image: sachinpashale/mysample10aug22
+          image: sachinpashale/mysample10aug22:1
           ports: 
           - containerPort: 8080
